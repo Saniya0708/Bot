@@ -1,4 +1,4 @@
-# Bot
+# GamingBot
 from openai import OpenAI 
 client= OpenAI(
     api_key= "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",
