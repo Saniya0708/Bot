@@ -1,7 +1,7 @@
 # Bot
 from openai import OpenAI 
 client= OpenAI(
-    api_key= "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",
+    api_key= "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",
     base_url= "https://api.groq.com/openai/v1"
 )
 
